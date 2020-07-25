@@ -1,0 +1,34 @@
+- ingredients:
+  - mushroom__red:
+    - name: "Red Mushroom"
+    - sell: 2
+    - growable: true
+  - mushroom__green:
+    - name: "Green Mushroom"
+    - sell: 5
+    - growable: true
+  - mushroom__purple:
+    - name: "Purple Mushroom"
+    - sell: 10
+    - growable: true
+  - dust__basic:
+    - name: "Magic Dust"
+    - sell: 1
+    - growable: false
+  - dust__better:
+    - name: "Better Magic Dust"
+    - sell: 2
+    - growable: false
+  - dust__best:
+    - name: "Best Magic Dust"
+    - sell: 3
+    - growable: false
+- fuel:
+  - wood:
+    - name: "Wood"
+    - sell: 1
+    - desc: "Good old-fashioned lumber, for your various fiery needs!"
+  - coal:
+    - name: "Coal"
+    - sell: 5
+    - desc: "You get lumps of coal from Santa every year. Why not use them?"
